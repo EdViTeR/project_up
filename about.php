@@ -6,12 +6,12 @@
 		<link rel="stylesheet" href="style.css">
 	</head>
 	<body>
-		Это основное содержимое страницы "О нас".
+		<p>Это основное содержимое страницы "О нас".</p>
 		<br>
-		<a href="index.php">Главная</a>
+		<a href="index.php" class="link">Главная</a>
 		<br>
-		<a href="about.php">О нас</a>
+		<a href="about.php" class="link link_active">О нас</a>
 		<br>
-		<a href="sign_in.php">Войти</a>
+		<a href="sign_in.php" class="link">Войти</a>
 	</body>
 </html>
