@@ -1,5 +1,5 @@
 body {
-	/*background: green;*/
+	background: grey;
 }
 
 h1 {
@@ -43,4 +43,9 @@ h1 {
 .text1 {
 	display: block;
 	margin: auto;
+}
+
+.nav-links {
+	display: flex;
+	justify-content: center;
 }

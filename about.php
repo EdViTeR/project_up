@@ -6,9 +6,11 @@
 		<link rel="stylesheet" href="style.css">
 	</head>
 	<body>
-		<p>Это основное содержимое страницы "О нас".</p>
-		<a href="index.php" class="link">Главная</a>
-		<a href="about.php" class="link link_active">О нас</a>
-		<a href="sign_in.php" class="link">Войти</a>
+		<h1>Это основное содержимое страницы "О нас".</h1>
+		<div class="nav-links">
+			<a href="index.php" class="link">Главная</a>
+			<a href="about.php" class="link link_active">О нас</a>
+			<a href="sign_in.php" class="link">Войти</a>
+		</div>
 	</body>
 </html>
